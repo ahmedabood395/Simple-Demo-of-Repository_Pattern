@@ -1,0 +1,35 @@
+﻿@model List<Repository_Domain.Models.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Address</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Salary</td>
+                <td>@item.Address</td>
+                <td>@Html.ActionLink("Edit", "Edit", new { id = item.ID }) | @Html.ActionLink("Delete", "Delete", new { id = item.ID })</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Create", "Create",null,new { @class = "btn btn-primary" })
+
+

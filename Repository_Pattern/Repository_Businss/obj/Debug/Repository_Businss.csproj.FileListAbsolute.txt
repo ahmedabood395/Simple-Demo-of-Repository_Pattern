@@ -1,0 +1,15 @@
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\Repository_Businss.dll.config
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\Repository_Businss.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\Repository_Businss.pdb
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\EntityFramework.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\Repository_Domain.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\Repository_Domain.pdb
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\Repository_Domain.dll.config
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\EntityFramework.xml
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\obj\Debug\Repository_Businss.csprojAssemblyReference.cache
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\obj\Debug\Repository_Businss.csproj.CoreCompileInputs.cache
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\obj\Debug\Repository_Businss.csproj.CopyComplete
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\obj\Debug\Repository_Businss.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Businss\obj\Debug\Repository_Businss.pdb

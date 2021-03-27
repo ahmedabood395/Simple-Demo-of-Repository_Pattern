@@ -1,0 +1,29 @@
+﻿@model Repository_Domain.Models.Employee
+@{
+    ViewBag.Title = "Create";
+}
+
+<form method="post">
+    <table>
+        <tr>
+            <td>@Html.DisplayNameFor(n => n.Name)</td>
+            <td>@Html.TextBoxFor(n => n.Name)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(n => n.Age)</td>
+            <td>@Html.TextBoxFor(n => n.Age)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(n => n.Salary)</td>
+            <td>@Html.TextBoxFor(n => n.Salary)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(n => n.Address)</td>
+            <td>@Html.TextBoxFor(n => n.Address)</td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Save" class="btn btn-primary" /></td>
+        </tr>
+    </table>
+</form>
+

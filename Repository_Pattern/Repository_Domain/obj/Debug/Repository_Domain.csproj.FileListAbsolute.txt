@@ -1,0 +1,12 @@
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\Repository_Domain.dll.config
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\Repository_Domain.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\Repository_Domain.pdb
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\EntityFramework.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\EntityFramework.xml
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\obj\Debug\Repository_Domain.csprojAssemblyReference.cache
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\obj\Debug\Repository_Domain.csproj.CoreCompileInputs.cache
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\obj\Debug\Repository_Domain.csproj.CopyComplete
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\obj\Debug\Repository_Domain.dll
+C:\Users\wave\Desktop\Repository_Pattern\Repository_Domain\obj\Debug\Repository_Domain.pdb
